@@ -24,8 +24,8 @@ The Doctor Visiting System Website is a PHP and MySQL-based web application for 
 
 ## Installation
 
-Step 1> Download XAMPP from here.
-Step 2> Install XAMPP on your system.
+Step 1.  Download XAMPP from here.
+Step 2.  Install XAMPP on your system.
 Step 3> Download the project files.
 Step 4> Extract the project files into the htdocs directory of your XAMPP installation.
 Step 5> Launch XAMPP and start Apache and MySQL.
